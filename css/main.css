@@ -185,6 +185,7 @@ img{
 .carousel-caption h1{
     font-family: 'Ubuntu', sans-serif;
     font-size: 3.3rem;
+    color: #fff !important;
     position: relative;
     display: block;
     font-weight: 700;
