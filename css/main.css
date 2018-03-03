@@ -171,7 +171,6 @@ img{
 /*--End slider--*/
 
 .carousel-caption {
-    position: relative;
     color: #fff;
     top: 0;
     bottom: 0;
@@ -185,10 +184,10 @@ img{
 .carousel-caption h1{
     font-family: 'Ubuntu', sans-serif;
     font-size: 3.3rem;
-    color: #fff !important;
     position: relative;
     display: block;
     font-weight: 700;
+    color: #fff !important;
     text-transform: uppercase;
 }
 
