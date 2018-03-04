@@ -116,11 +116,12 @@ img{
 }
 
 .carousel-caption{
-  bottom: 400px;
+  bottom: 300px;
   text-align: left;
   text-align: justify;
   color: #fff;
   z-index: 1;
+  margin-left: 30px;
 }
 
 .carousel-caption h1{
